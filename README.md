@@ -47,8 +47,8 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/riyalchandrakar/secure-blink.git
-cd secure-blink
+git clone https://github.com/riyalchandrakar/Secure_Blink.git
+cd Secure-Blink
 ```
 
 ### 2. Install dependencies
