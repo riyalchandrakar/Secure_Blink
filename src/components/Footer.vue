@@ -14,7 +14,7 @@
         <h2 class="text-xl font-semibold text-gray-800 mb-6">Send Us message</h2>
 
         <form
-          action="https://formsubmit.co/riyalchandrakar5@gmail.com"
+          action="https://formsubmit.co/db37dfc00e0bee0196d4cf8c778a4ce9"
           method="POST"
           class="space-y-4"
         >
